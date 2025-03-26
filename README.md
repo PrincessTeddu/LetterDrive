@@ -25,3 +25,4 @@ Responsive design for all device sizes
 Modern UI with custom SVG illustrations
 Project Structure
 Core Files and Directories
+
